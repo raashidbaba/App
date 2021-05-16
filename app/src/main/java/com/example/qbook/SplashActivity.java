@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.TextView;
+/*import android.widget.TextView;*/
 public class SplashActivity extends AppCompatActivity {
        private TextView appName;
 
